@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
 <h1 align="center"> Hi 👋, I'm <a href="https://hirodkar.tk">Tanmay Hirodkar</a></h3>
-<h3 align="center"> Student of MET's Institire of Technology | BTech Computer Science</h3>
+<h3 align="center"> Student of MET's Institute of Technology | BTech Computer Science</h3>
 <img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
 
 
