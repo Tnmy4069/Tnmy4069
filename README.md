@@ -26,8 +26,8 @@ I am a passionate Web Developer with a drive to challenge myself daily and conti
 I have experience with multiple languages, such as PHP, JS, CSS, and Python, and have used various tools to enhance the user experience of Websites. My efforts have resulted in improved website design that has been well-received. I am always looking for new ways to expand my knowledge and use my skills to create better experiences for users.
 <h3 align="left">Connect with me :</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/tanmay-hirodkar-7365221b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harshal-patil-534502259" height="30" width="40" /></a>
-<a href="https://instagram.com/tnmy_h21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshal_patil.knowme" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hirodkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harshal-patil-534502259" height="30" width="40" /></a>
+<a href="https://instagram.com/tnmy_hirodkar21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshal_patil.knowme" height="30" width="40" /></a>
 
 <!--<a href="https://discord.gg/Harshal#2915" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Harshal#2915" height="30" width="40" /></a>-->
 </p>
