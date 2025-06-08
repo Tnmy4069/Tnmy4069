@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **React, AI & Data Structure and Algorithm**
 
-- 💬 Ask me about **PHP, MySQL, JS**
+- 💬 Ask me about **PHP, MySQL, PostgreSQL JS**
 
-- 📫 How to reach me **tanmay@hirodkar.tk**
+- 📫 How to reach me **tanmay@ecellmet.tech**
 
 - ⚡ **I am Ambitious and Passionate towards coding and Always there to help Anyone**
   
